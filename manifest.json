@@ -2,52 +2,52 @@
   "name": "dark-sun-psion-module",
   "title": "Dark Sun Psion Module",
   "description": "Adds the Athascon Psion class, subclasses (Orders), disciplines, devotions, talents, and powers from Athascon Psion v1.2 to D&D5e in Foundry VTT.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
-  "download": "https://raw.githubusercontent.com/darksunvtt/dark-sun-psion-module/main/dark-sun-psion-module-v12.zip"
+  "download": "https://github.com/darksunvtt/dark-sun-psion-module/releases/download/v1.0.2/dark-sun-psion-module-v1.0.2.zip",
+  "author": "Rajaat Jr",
   "minimumCoreVersion": "12",
   "compatibleCoreVersion": "12",
   "compatibleCoreBuild": "331",
-  "author": "Rajaat Jr",
   "scripts": [
     "scripts/psion-module.js"
   ],
   "packs": [
     {
       "id": "psion-classes",
+      "type": "Item",
       "label": "Athascon Psionic Classes",
-      "path": "packs/psion-classes.db",
-      "entity": "Item"
+      "path": "packs/psion-classes.db"
     },
     {
       "id": "psion-orders",
+      "type": "Item",
       "label": "Athascon Psionic Orders",
-      "path": "packs/psion-orders.db",
-      "entity": "Item"
+      "path": "packs/psion-orders.db"
     },
     {
       "id": "psion-disciplines",
+      "type": "Item",
       "label": "Athascon Psionic Disciplines",
-      "path": "packs/psion-disciplines.db",
-      "entity": "Item"
+      "path": "packs/psion-disciplines.db"
     },
     {
       "id": "psion-devotions",
+      "type": "Item",
       "label": "Athascon Psionic Devotions",
-      "path": "packs/psion-devotions.db",
-      "entity": "Item"
+      "path": "packs/psion-devotions.db"
     },
     {
       "id": "psion-talents",
+      "type": "Item",
       "label": "Athascon Psionic Talents",
-      "path": "packs/psion-talents.db",
-      "entity": "Item"
+      "path": "packs/psion-talents.db"
     },
     {
       "id": "psion-powers",
+      "type": "Item",
       "label": "Athascon Psionic Powers",
-      "path": "packs/psion-powers.db",
-      "entity": "Item"
+      "path": "packs/psion-powers.db"
     }
   ]
 }
