@@ -1,0 +1,52 @@
+{
+  "name": "dark-sun-psion-module",
+  "title": "Dark Sun Psion Module",
+  "description": "Adds the Athascon Psion class, subclasses (Orders), disciplines, devotions, talents, and powers from Athascon Psion v1.2 to D&D5e in Foundry VTT.",
+  "version": "1.0.0",
+  "type": "module",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "compatibleCoreBuild": "331",
+  "author": "Rajaat Jr",
+  "scripts": [
+    "scripts/psion-module.js"
+  ],
+  "packs": [
+    {
+      "name": "psion-classes",
+      "label": "Athascon Psionic Classes",
+      "path": "packs/psion-classes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "psion-orders",
+      "label": "Athascon Psionic Orders",
+      "path": "packs/psion-orders.db",
+      "entity": "Item"
+    },
+    {
+      "name": "psion-disciplines",
+      "label": "Athascon Psionic Disciplines",
+      "path": "packs/psion-disciplines.db",
+      "entity": "Item"
+    },
+    {
+      "name": "psion-devotions",
+      "label": "Athascon Psionic Devotions",
+      "path": "packs/psion-devotions.db",
+      "entity": "Item"
+    },
+    {
+      "name": "psion-talents",
+      "label": "Athascon Psionic Talents",
+      "path": "packs/psion-talents.db",
+      "entity": "Item"
+    },
+    {
+      "name": "psion-powers",
+      "label": "Athascon Psionic Powers",
+      "path": "packs/psion-powers.db",
+      "entity": "Item"
+    }
+  ]
+}
