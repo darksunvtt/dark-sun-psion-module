@@ -14,37 +14,37 @@
   ],
   "packs": [
     {
-      "name": "psion-classes",
+      "id": "psion-classes",
       "label": "Athascon Psionic Classes",
       "path": "packs/psion-classes.db",
       "entity": "Item"
     },
     {
-      "name": "psion-orders",
+      "id": "psion-orders",
       "label": "Athascon Psionic Orders",
       "path": "packs/psion-orders.db",
       "entity": "Item"
     },
     {
-      "name": "psion-disciplines",
+      "id": "psion-disciplines",
       "label": "Athascon Psionic Disciplines",
       "path": "packs/psion-disciplines.db",
       "entity": "Item"
     },
     {
-      "name": "psion-devotions",
+      "id": "psion-devotions",
       "label": "Athascon Psionic Devotions",
       "path": "packs/psion-devotions.db",
       "entity": "Item"
     },
     {
-      "name": "psion-talents",
+      "id": "psion-talents",
       "label": "Athascon Psionic Talents",
       "path": "packs/psion-talents.db",
       "entity": "Item"
     },
     {
-      "name": "psion-powers",
+      "id": "psion-powers",
       "label": "Athascon Psionic Powers",
       "path": "packs/psion-powers.db",
       "entity": "Item"
