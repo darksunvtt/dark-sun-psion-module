@@ -4,7 +4,7 @@
   "description": "Adds the Athascon Psion class, subclasses (Orders), disciplines, devotions, talents, and powers from Athascon Psion v1.2 to D&D5e in Foundry VTT.",
   "version": "1.0.0",
   "type": "module",
-  "download": "https://github.com/darksunvtt/dark-sun-psion-module/blob/main/dark-sun-psion-module-v12.zip"
+  "download": "https://github.com/darksunvtt/dark-sun-psion-module/raw/refs/heads/main/dark-sun-psion-module-v12.zip"
   "minimumCoreVersion": "12",
   "compatibleCoreVersion": "12",
   "compatibleCoreBuild": "331",
